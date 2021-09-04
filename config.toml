@@ -657,7 +657,7 @@ uglyURLs = false
 
     ## Disqus
     enableDisqus = true
-    disqusShortname = "batang-trader"
+    disqusShortname = "batang-traders"
 
     ## Valine
     enableValine = false
