@@ -1,0 +1,7 @@
+baseURL = 'https://batangtrader.com/'
+languageCode = 'en-us'
+title = 'Batang Trader'
+theme = 'meme'
+
+[Params]
+    subtitle = 'Making crypto trading simple...'
