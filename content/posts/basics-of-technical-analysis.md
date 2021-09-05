@@ -54,7 +54,7 @@ Here is an example:
 
 <img src="/static/basic-ta/sample-sor.png" loading="lazy" />
 
-Two SORs have been marked in the image above. Both are two-candlestick SORs. Basically, what you want is to find something like in `S1` and treat as buying signal and `S2` as selling signals. This is a definite profit for us right? Well if get them correctly, and we will, in time.
+Two SORs have been marked in the image above. Both are two-candlestick SORs. Basically, what you want is to find something like in `S1` and treat as buying signal and `S2` as selling signals. This is a definite profit for us right? Well, if we get them correctly, and we will, in time.
 
 As everything in trading, it's all about buying at lower expense and selling at higher returns. Buy spotting signs of reversals correctly, we maximize the use of our profit in trading. We would like to minimize the stagnant state of our money so the profit flow continues.
 
