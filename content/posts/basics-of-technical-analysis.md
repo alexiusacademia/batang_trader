@@ -82,7 +82,7 @@ We can use this to project a trendline and maybe spot a sign of reversal.
     <figcaption style="font-size: 0.75em;"><strong>CHR/USDT</strong> - 15m Timeframe - August 26-27, 2021</figcaption>
 </figure>
 
-What I did here is I drew a line (orange line) representing resistance of the downtrend. When the trend or candlesticks escapes the line going up and did did not go back down, I treat is as a sign of reversal.
+What I did here is I drew a line (orange line) representing resistance of the downtrend. When the trend or candlesticks escapes the line going up and did not go back down, I treat is as a sign of reversal.
 
 There are a lot of drawing tools available in the binance chart view but we will stick to the line tool in this article because of it's basic characteristics and it's easy to understand.
 
