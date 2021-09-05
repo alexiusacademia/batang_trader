@@ -149,8 +149,8 @@ Now this is not the most efficient entry for buy and sell points as you may noti
 
 ## Closing Remarks
 
-Now this is not a lot but I would like to think that this is a start. A start of understanding about the technical analysis of a market. Introducing begginers with few trading jargons that they may encounter along the way.
+Now this is not a lot but I would like to think that this is a start. A start of understanding about the technical analysis of a market. Introducing beginners with few trading jargons that they may encounter along the way.
 
-I hope you like this artile. We'll be talking in more detail about some of the tools here in the future entries for a clearer understanding and real life examples.
+I hope you like this article. We'll be talking in more detail about some of the tools here in the future entries for a clearer understanding and real life examples.
 
 Thank you for reading.
