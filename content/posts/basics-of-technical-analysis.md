@@ -24,7 +24,7 @@ while the candlestick chart is something like this.
 
 <img src="/static/candlestick-chart.png" loading="lazy" />
 
-The example above shows the chart for Bitcoin at the of writing this article.
+The example above shows the chart for Bitcoin at the time of this writing.
 
 If you just want the summarized overview of the market trend, you may want to go with the line chart, however, if you want a more detailed presentation, maybe the candlestick chart is best for you, and this is where I am looking for most of the time. 
 
