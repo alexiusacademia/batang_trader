@@ -733,13 +733,13 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    googleAdClient = ""
+    googleAdClient = "ca-pub-2445415508470678"
 
     ## Auto Ads
-    enableGoogleAutoAds = false
+    enableGoogleAutoAds = true
 
     ## Ad Units
-    enableGoogleAdUnits = false
+    enableGoogleAdUnits = true
     googleAdSlot = ""
 
 
