@@ -6,7 +6,7 @@ draft: false
 
 MACD or Moving Average Convergence Divergence, is an indicator that is placed at the bottom of the chart. It is a combination of moving average lines called the MACD, Signal and also the Histogram.
 
-To enable of show this indicator, click on the `Indicators` icon on the chart and type `MACD` on the search bar. Then tap on the result to put it on the chart.
+To enable or show this indicator, click on the `Indicators` icon on the chart and type `MACD` on the search bar. Then tap on the result to put it on the chart.
 
 The indicator looks like this
 
