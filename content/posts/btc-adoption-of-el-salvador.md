@@ -1,5 +1,5 @@
 ---
-title: "BTC Adoption of El Salvador"
+title: "BTC Adoption by El Salvador"
 date: 2021-09-08T06:01:53+08:00
 draft: false
 tags:
@@ -8,6 +8,7 @@ tags:
     - crypto adoption
 categories:
     - News
+slug: btc-adoption-by-el-salvador
 ---
 
 Late last night, we observed a large bearish move of bitcoin. A 24 hour change of more than 10%!
