@@ -9,7 +9,6 @@ tags:
     - signals
 categories:
     - Trading
-    - Tips
 ---
 
 MACD or Moving Average Convergence Divergence, is an indicator that is placed at the bottom of the chart. It is a combination of moving average lines called the MACD, Signal and also the Histogram.
